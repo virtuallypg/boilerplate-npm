@@ -15,5 +15,7 @@
  "repository": {
 	 "type": "git",
 	 "url": "https://idontknow/todo.git"
- }
+ },
+ "keywords": [ "English", "Language", "Skills", "Games" ]
+
 }
